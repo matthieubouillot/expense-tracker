@@ -1,0 +1,11 @@
+# Ignorer la base de données SQLite
+database.sqlite
+
+# Ignorer les variables d'environnement
+.env
+
+# Dossiers générés automatiquement
+node_modules/
+
+# Fichiers système
+.DS_Store
